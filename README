@@ -1,0 +1,4 @@
+Aby uruchomić program należy wpisać w terminalu polecenie:
+                make run
+Aby wyczyścić katalog z plików wyknowyalnych nalezy wpisać:
+                make clean
